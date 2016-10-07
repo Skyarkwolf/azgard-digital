@@ -1,0 +1,30 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    margin-bottom: 40px;
+}
+label {
+    color:  #ecf0f1
+
+}
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 20px;
+}
+
+.bg-content{
+    background-color: #34495e 
+}
+
+.form-text{
+    color:  #ecf0f1;
+
+}
+
+.carousel-fix{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightgoldenrodyellow;
+}
